@@ -1,0 +1,13 @@
+{
+  "name": "js-framework-benchmark-keyed-tempo",
+  "version": "1.0.0",
+  "type": "module",
+  "js-framework-benchmark": {
+    "frameworkVersion": "36.0.1",
+    "customURL": "/dist",
+    "frameworkHomeURL": "https://github.com/nicktomlin/nicktomlin.github.io"
+  },
+  "scripts": {
+    "build-prod": "echo 'Pre-built - copy dist from ../../keyed/dist'"
+  }
+}
